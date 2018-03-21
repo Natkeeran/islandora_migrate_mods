@@ -15,11 +15,15 @@ migration_group: islandora_mods
 label: 'Import MODS'
 source:
   plugin: url
-  data_fetcher_plugin: http
+  data_fetcher_plugin: file
   data_parser_plugin: xml
-  urls: private://var/www/html/drupal/web/modules/contrib/islandora_migrate_mods/data/mods_records.csv
+  urls: /var/www/html/drupal/web/modules/contrib/islandora_migrate_mods/data/mods_records.xml
   item_selector: /all_mods/mods
   fields:
+    -
+      name: guid
+      label: GUID
+      selector: guid
     -
       name: title
       label: title
@@ -28,6 +32,10 @@ source:
       name: abstract
       label: abstract
       selector: abstract
+  ids:
+    guid:
+      type: string
+
 
   constants:
     bool_0: 0
