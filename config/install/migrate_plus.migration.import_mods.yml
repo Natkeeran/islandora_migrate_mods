@@ -2,7 +2,7 @@ uuid: dc66ebde-a5cb-48c9-bb0b-afe0ad509219
 id: islandora_mods
 migration_tags: null
 migration_group: islandora_mods
-label: 'test2'
+label: 'Islandora MODS Migration Example'
 source:
   plugin: url
   data_fetcher_plugin: file
