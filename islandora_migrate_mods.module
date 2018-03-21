@@ -1,0 +1,26 @@
+<?php
+
+/**
+ * @file
+ * Contains islandora_migrate_mods.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function islandora_migrate_mods_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the dragomans module.
+    case 'help.page.islandora_migrate_mods':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('islandora_migrate_mods') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+

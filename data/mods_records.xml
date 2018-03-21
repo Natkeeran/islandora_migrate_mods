@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<all_mods>
+<mods
+	xmlns="http://www.loc.gov/mods/v3"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+	<titleInfo>
+		<title lang="eng">
+			<![CDATA[ Tiger Fangs [movie still] ]]>
+		</title>
+	</titleInfo>
+	<name type="personal">
+		<role>
+			<roleTerm type="text">collector</roleTerm>
+		</role>
+		<namePart>
+			<![CDATA[Bender, Daniel E.]]>
+		</namePart>
+	</name>
+	<typeOfResource>still image</typeOfResource>
+	<genre>film stills</genre>
+	<language>
+		<languageTerm type="text">English</languageTerm>
+	</language>
+	<abstract>
+		<![CDATA[ Poster reads "PRC Pictures Present Frank Buck in Tiger Fangs" ]]>
+	</abstract>
+	<identifier type="local">o2013001A1-1-1_1</identifier>
+	<accessCondition>Digital files found on the Digital Scholarship Unit site are meant for research and private study used in compliance with copyright legislation.  Access to digital images and text found on this website and the technical capacity to download or copy it does not imply permission to re-use. Prior written permission to publish, or otherwise use images and text found on the website must be obtained from copyright holder. Please contact Archives and Special Collections for further information.</accessCondition>
+	<originInfo>
+		<publisher>PRC Pictures ca. 1930</publisher>
+		<place>
+			<placeTerm type="text"></placeTerm>
+		</place>
+		<dateCreated>[ca.1930]</dateCreated>
+		<dateCreated point="start">1930</dateCreated>
+		<dateCreated point="end">1930</dateCreated>
+		<copyrightDate></copyrightDate>
+	</originInfo>
+	<physicalDescription>
+		<extent>
+			<![CDATA[ 10.7 cm x 16.7 cm]]>
+		</extent>
+		<form>
+			<![CDATA[ nonprojected graphic]]>
+		</form>
+		<note>
+			<![CDATA[ ]]>
+		</note>
+	</physicalDescription>
+	<subject>
+		<topic>
+			<![CDATA[ Jungle animals ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Jungles ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Buck, Frank, 1884-1950 ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Animal attacks ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Jungle films ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Motion pictures ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Action and adventure films ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Wounds and injuries ]]>
+		</topic>
+		<temporal>
+			<![CDATA[  ]]>
+		</temporal>
+		<hierarchicalGeographic>
+			<continent></continent>
+			<country></country>
+			<state></state>
+			<province></province>
+			<region></region>
+			<city></city>
+		</hierarchicalGeographic>
+	</subject>
+</mods>
+<mods
+	xmlns="http://www.loc.gov/mods/v3"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+	<titleInfo>
+		<title lang="eng">
+			<![CDATA[ Bring 'Em Back Alive [movie still] ]]>
+		</title>
+	</titleInfo>
+	<name type="personal">
+		<role>
+			<roleTerm type="text">collector</roleTerm>
+		</role>
+		<namePart>
+			<![CDATA[Bender, Daniel E.]]>
+		</namePart>
+	</name>
+	<typeOfResource>still image</typeOfResource>
+	<genre>film stills</genre>
+	<language>
+		<languageTerm type="text">English</languageTerm>
+	</language>
+	<abstract>
+		<![CDATA[ Bring 'Em Back Aliv description ]]>
+	</abstract>
+	<identifier type="local">o2013001A1-1-1_2</identifier>
+	<accessCondition>Digital files found on the Digital Scholarship Unit site are meant for research and private study used in compliance with copyright legislation.  Access to digital images and text found on this website and the technical capacity to download or copy it does not imply permission to re-use. Prior written permission to publish, or otherwise use images and text found on the website must be obtained from copyright holder. Please contact Archives and Special Collections for further information.</accessCondition>
+	<originInfo>
+		<publisher>RKO Radio Picture</publisher>
+		<place>
+			<placeTerm type="text"></placeTerm>
+		</place>
+		<dateCreated>[ca.1932]</dateCreated>
+		<dateCreated point="start">1932</dateCreated>
+		<dateCreated point="end">1932</dateCreated>
+		<copyrightDate></copyrightDate>
+	</originInfo>
+	<physicalDescription>
+		<extent>
+			<![CDATA[ 10.7 cm x 16.7 cm]]>
+		</extent>
+		<form>
+			<![CDATA[ nonprojected graphic]]>
+		</form>
+		<note>
+			<![CDATA[ ]]>
+		</note>
+	</physicalDescription>
+	<subject>
+		<topic>
+			<![CDATA[ Instrumental music ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Jungles ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Buck, Frank, 1884-1950 ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Music ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Jungle films ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Indigenous films ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Motion pictures ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Action and adventure films ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Children ]]>
+		</topic>
+		<topic>
+			<![CDATA[ Indigenous peoples ]]>
+		</topic>
+		<temporal>
+			<![CDATA[  ]]>
+		</temporal>
+		<hierarchicalGeographic>
+			<continent></continent>
+			<country></country>
+			<state></state>
+			<province></province>
+			<region></region>
+			<city></city>
+		</hierarchicalGeographic>
+	</subject>
+</mods>
+</all_mods>
